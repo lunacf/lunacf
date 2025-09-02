@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy Carlos Facundo Luna</h1>
+<h1 align="center">¡Hola👋 Soy Facu! </h1>
 <h3 align="center">✨ Desarrollador en crecimiento | Estudiante de programación</h3>
 
 <p align="center">
