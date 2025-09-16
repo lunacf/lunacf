@@ -1,9 +1,6 @@
 <h1 align="center">¡Hola👋 Soy Facu! </h1>
-<h3 align="center">✨ Desarrollador en crecimiento | Estudiante de programación</h3>
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/106826270?v=4" alt="Avatar" width="120" style="border-radius: 50%; border: 4px solid #6e5494;">
-</p>
+<h3 align="center">✨ Desarrollador en crecimiento </h3>
+<p align="left">✨ QA automation | Backend Developer </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lunacf&label=Visitas%20al%20perfil&color=6e5494&style=flat" alt="Visitas al perfil" />
