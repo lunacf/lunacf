@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola👋 Soy Facu! </h1>
 <h3 align="center">✨ Desarrollador en crecimiento </h3>
-<p align="left">✨ QA automation | Backend Developer </p>
+<p align="left">✨ Aprendiendo a automatizar cosas con Python </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lunacf&label=Visitas%20al%20perfil&color=6e5494&style=flat" alt="Visitas al perfil" />
