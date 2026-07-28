@@ -1,6 +1,7 @@
 <h1 align="center">Soy Facundo Luna </h1>
 <h3 align="center">✨ QA Automation / Backend Developer </h3>
-<p align="left">✨ Aprendiendo automatizaciones y Data Science </p>
+
+<p align="center">✨ Aprendiendo automatizaciones y Data Science </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lunacf&label=Visitas%20al%20perfil&color=6e5494&style=flat" alt="Visitas al perfil" />
