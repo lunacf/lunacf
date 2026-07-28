@@ -1,18 +1,9 @@
-<h1 align="center">¡Hola👋 Soy Facu! </h1>
-<h3 align="center">✨ Desarrollador en crecimiento </h3>
-<p align="left">✨ Aprendiendo a automatizar cosas con Python </p>
+<h1 align="center">Soy Facundo Luna </h1>
+<h3 align="center">✨ QA Automation / Backend Developer </h3>
+<p align="left">✨ Aprendiendo automatizaciones y Data Science </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lunacf&label=Visitas%20al%20perfil&color=6e5494&style=flat" alt="Visitas al perfil" />
-</p>
-
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lunacf&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Estadísticas de lunacf" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lunacf&theme=default&hide_border=true" alt="Racha de contribuciones" width="48%" />
 </p>
 
 ---
@@ -35,9 +26,9 @@
 
 ### 🌱 Actualmente estoy aprendiendo
 
-- Testing Automation Java con Playwright
+- Testing Automation Python con Playwright
 - Desarrollo con Python 
-- Bases de datos SQL y MongoDB
+- Bases de datos SQL, MongoDB, PostgreSQL
 - Patrones de diseño de software
 
 ---
