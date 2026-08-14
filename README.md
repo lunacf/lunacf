@@ -1,5 +1,5 @@
 <h1 align="center">Soy Facundo Luna </h1>
-<h3 align="center">✨ QA Automation / Backend Developer </h3>
+<h3 align="center">✨ QA Automation Engineer </h3>
 
 <p align="center">✨ Aprendiendo automatizaciones y Data Science </p>
 
