@@ -1,54 +1,38 @@
-<h1 align="center">Soy Facundo Luna </h1>
-<h3 align="center">✨ QA Automation Engineer </h3>
+# Hi, I'm Carlos Facundo Luna 👋
 
-<p align="center">✨ Aprendiendo automatizaciones y Data Science </p>
+**QA Automation Engineer | 7+ Years in Manual & Automated Testing | Playwright + TypeScript | API Testing | CI/CD (GitHub Actions)**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lunacf&label=Visitas%20al%20perfil&color=6e5494&style=flat" alt="Visitas al perfil" />
-</p>
+Buenos Aires, Argentina — Open to Remote / Relocation
 
----
-
-### 🛠️ Tecnologías y Herramientas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="
-
+[LinkedIn](https://linkedin.com/in/carlosfacundoluna) · [Email](mailto:facundolunac@gmail.com)
 
 ---
 
+## About Me
 
-### 🌱 Actualmente estoy aprendiendo
+QA professional with 7+ years of experience in manual and automated testing across the **financial, government, and e-commerce** sectors. I combine hands-on test automation — Playwright with TypeScript, API testing, Page Object Model, CI/CD pipelines — with strong fundamentals in test case design, STLC, and Agile/Scrum collaboration.
 
-- Testing Automation Python con Playwright
-- Desarrollo con Python 
-- Bases de datos SQL, MongoDB, PostgreSQL
-- Patrones de diseño de software
+Currently working as a QA Tester for the **Government of the City of Buenos Aires**, and building out my automation skill set through self-driven projects using TypeScript, Playwright, and GitHub Actions.
+
+- 🔭 Currently focused on end-to-end and API test automation with **Playwright + TypeScript**
+- 🌱 Also exploring Node.js, Newman, and data analysis with Python (matplotlib, Jupyter)
+- 💬 Ask me about test automation strategy, Page Object Model, or CI/CD for test suites
+- 🌎 Previous QA experience: Inter-American Development Bank (IDB), Prosys (Tourism Management), Mercado Libre
+- 📫 Reach me at facundolunac@gmail.com
+
+## Tech Stack
+
+**Languages:** TypeScript · JavaScript · Java · Python
+**Automation:** Playwright · Selenium WebDriver · Cypress
+**API Testing:** Postman · SoapUI · Newman
+**CI/CD:** GitHub Actions
+**Databases:** SQL · PostgreSQL
+**Other:** Git · Jira · Agile/Scrum · ISO 9001
+
+## Featured Project
+
+**[QA Automation Portfolio](https://github.com/lunacf/qa-automation-portfolio)** — End-to-end and API test suite built with Playwright + TypeScript, featuring Page Object Model, data-driven testing, and a full CI/CD pipeline with GitHub Actions.
 
 ---
 
-</p>
-
-### 📫 Cómo contactarme
-
-<p align="center">
-  <a href="mailto:facundolunac@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/lunacf">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/carlos-facundo-luna-414075169">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
-
-
+*Open to remote QA Automation roles — feel free to reach out.*
